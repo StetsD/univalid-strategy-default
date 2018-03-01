@@ -1,0 +1,33 @@
+{
+  "name": "univalid-strategy-default",
+  "version": "1.0.0",
+  "description": "Default strategy implementation for univalid module (extends 'univalid-strategy')",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StetsD/univalid-strategy-default.git"
+  },
+  "keywords": [
+	  "password",
+      "input",
+      "univalid",
+      "validation",
+      "univalid-strategy-default",
+      "univalid-strategy",
+      "strategy",
+      "check",
+      "validate",
+	  "form"
+  ],
+  "author": "'StetsD' <chortstd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StetsD/univalid-strategy-default"
+  },
+  "homepage": "https://github.com/StetsD/univalid-strategy-default#readme",
+  "devDependencies": {},
+  "dependencies": {
+	  "univalid-strategy": "^1.0.0"
+  }
+}
