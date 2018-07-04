@@ -28,6 +28,6 @@
   "homepage": "https://github.com/StetsD/univalid-strategy-default#readme",
   "devDependencies": {},
   "dependencies": {
-    "univalid-strategy": "^1.0.0"
+    "univalid-strategy": "^1.0.2"
   }
 }
